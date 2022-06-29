@@ -1,6 +1,6 @@
 # Movie-Recommendation-System
 
-##Project Description:
+## Project Description:
 Different algorithms to make recommendations for movies:
 1. User-Based Collaborative Filtering Algorithm Using Cosine Similarity
 2. User-Based Collaborative Filtering Algorithm Using Pearson Correlation
@@ -9,7 +9,7 @@ Different algorithms to make recommendations for movies:
 5. Item-Based Collaborative Filtering Algorithm
 6. Own algorithm
 
-##Running Environment:  Jupyter Notebook
+## Running Environment:  Jupyter Notebook
 
 Running Instruction:
 1. Open .ipynb source file in Jupyter Notebook
